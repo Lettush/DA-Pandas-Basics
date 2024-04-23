@@ -1,0 +1,6 @@
+ProductID	ReviewText	Review Length
+P1	This product is great!	22
+P2	Could be better.	16
+P1	Loved it!	9
+P3	Not what I expected.	20
+P2	Amazing product.	16

@@ -1,0 +1,6 @@
+ProductID	ReviewText
+P1	This product is great!
+P2	Could be better.
+P1	Loved it!
+P3	Not what I expected.
+P2	Amazing product.
